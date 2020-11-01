@@ -1,0 +1,19 @@
+.root-header {
+    display: flex;
+    margin: 1%;
+}
+
+.root-header-btn {
+    margin: 1%;
+    position: absolute;
+    right: 5%;
+    top: 4%;
+}
+
+.root-header a {
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: none;
+}
